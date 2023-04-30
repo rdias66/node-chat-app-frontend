@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import Chat from '../../components/chat';
-import LoginForm from '../../components/login';
+import Chat from '../components/chat';
+import LoginForm from '../components/login';
 
 function App() {
   return (
