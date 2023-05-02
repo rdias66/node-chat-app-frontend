@@ -1,3 +1,6 @@
+Front end for node-chat-app rep, not linked yet.
+Full debugging to be finished.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
